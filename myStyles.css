@@ -1,0 +1,22 @@
+div {
+    background-color: #aaffff;
+}
+
+p {
+    width: 50px;
+    height: 5px;
+    border: 1 px solid black;
+}
+
+#p1 {
+    background-color: #ff9a9a;
+}
+#p2 {
+    background-color: #bc97f7;
+}
+#p3 {
+    background-color: #fff8b5;
+}
+#p4 {
+    background-color: #7ab3ff;
+}
